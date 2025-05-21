@@ -16,7 +16,6 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 
 ### 1. **Analyze the Given Image:**
 
-![image](https://github.com/user-attachments/assets/0b75ea42-f94c-472f-ba6e-ec8b99cc935e)
 
 Examine the image carefully, noting key elements such as:
 - **Objects/Subjects:** e.g., people, animals, objects.
@@ -48,16 +47,19 @@ If the image has a particular style (e.g., impressionist painting, realistic pho
 Refine the prompt further by adding specific instructions about elements like textures, weather conditions, or any other distinctive features in the image. For example:  
 - "A serene landscape during sunset with purple mountains, a calm river reflecting the colors of the sky, a few trees along the shore, and soft, pastel tones in the clouds."
 
-### 6. **Generate the Image:**
-
+### 6. ** AI Generated Image:**
+##### Prompt: *"A robot(full body view) painting a portrait nearby a green valley"* Generated with Runway AI
 ![image](https://github.com/user-attachments/assets/5396188b-500c-47f6-ba1f-ccb53de43d2f)
+
+##### Prompt: *"A little boy entering into a new world of his dream"* Generated with Midjourney
+![KEERTHI_VASAN_A_2Discovering_a_strange_portal_that_transports_th_f98bb0a4-6c92-405b-b965-36377cf264ca](https://github.com/user-attachments/assets/bfa0724f-f29d-4392-91a1-4eb28c5b9389)
+
+
 
 
 Use the crafted prompt to generate the image in a text-to-image model (e.g., DALL·E, Stable Diffusion, MidJourney).
 
-### 7. **Compare the Generated Image with the Original:**
 
-![image](https://github.com/user-attachments/assets/2eae137f-748b-47e9-b436-5f4b8bdd1a55)
 
 
 Assess how closely the generated image matches the original in terms of colors, composition, subject, and style. Note the differences and refine the prompt if necessary.
