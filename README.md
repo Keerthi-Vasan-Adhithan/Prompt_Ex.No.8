@@ -171,4 +171,9 @@ D. **Accent and Language Variation**
 The experiment successfully explored how structured, conditional, and creative prompting affects the quality of AI-generated audio. Rich, specific prompts and thoughtful refinement enhanced control over the output. By leveraging the strengths of tools like Jukebox, AudioLM, and MusicGen, users can generate high-quality audio for music, speech, and soundscapes tailored to a wide range of applications.
 
 ## Sample Audio URLs (Generated):
+```
+Prompt - Speak about AI in future.
+Language - Tamil
+Tool - SpeechMa
+```
 Drive link : https://drive.google.com/file/d/1tUvzYmTzYQvDG_pnfksTdFzNCILGmFvB/view?usp=drive_link
